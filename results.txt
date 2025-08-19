@@ -1,1 +1,3 @@
 2025-08-19 17:11:08 UTC example.com 96.7.128.198
+2025-08-19 20:50:41 UTC example.com 23.192.228.80 http://example.com [200] Example Domain (len=1256)
+2025-08-19 20:50:41 UTC example.com 23.192.228.80 https://example.com [200] Example Domain (len=1256)
